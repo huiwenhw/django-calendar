@@ -1,3 +1,5 @@
 db.sqlite3
 .vscode/
 env/
+static/
+*.pyc
